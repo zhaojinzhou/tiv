@@ -9,7 +9,8 @@ centos 7
     stiv-jpg 1.jpg 256
 
 
-  
+ubuntu
+
 tiv: the terminal image viewer
 ==============================
 
