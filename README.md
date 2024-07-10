@@ -1,3 +1,15 @@
+编译和使用
+
+centos 7 
+
+    curl -o /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
+    yum update
+    yum install vala-devel gtk2-devel  libjpeg-devel
+
+    stiv-jpg 1.jpg 256
+
+
+  
 tiv: the terminal image viewer
 ==============================
 
